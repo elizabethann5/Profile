@@ -8,6 +8,8 @@ function Header() {
         <ul className="flex gap-8 text-lg">
           <li className="mr-8 cursor-pointer hover:text-green-400 transition duration-300">Log In</li>
           <li className="cursor-pointer hover:text-green-400  transition duration-300">Sign Up</li>
+          <li className="cursor-pointer hover:text-green-400  transition duration-300">Sign Up</li>
+
         </ul>
       </div>
     );
